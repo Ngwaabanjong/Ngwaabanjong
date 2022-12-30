@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ngwaabanjong
-- 👀 I’m interested in Cloud Learning
-- Through real-world scenario-based learning, I completed 450+ hours hands-on at PerScholas on labs, and coursework I received intensive training in IT fundamentals in Linux, Networking,  Security, Python and AWS Cloud Services.
+- 👋 Hi, I’m @Ngwaabanjong a Multi Certified Cloud Engineer. 
+- 👀 I’m interested in Continuous Learning of Cloud Platforms.
+- Through real-world scenario-based learning, I've completed hands-on labs, and courseworks, I received intensive training in IT fundamentals in Linux, Database, Compute, Networking, Security, Storage, Terraform, DevOps, AWS Cloud Services and Azure.
 
 <!---
 Ngwaabanjong/Ngwaabanjong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
