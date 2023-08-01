@@ -3,24 +3,25 @@
 <img align="right" alt="Coding" width="400" src="https://devops.archeplay.com/app/static/media/Hero-bg-image.6db5e806.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngwaabanjong&label=Profile%20views&color=0e75b6&style=flat" alt="ngwaabanjong" /> </p>
+
 - 🔭 I’m currently working on **ECS Pipeline Deployment for Boydgaming**
 
 - 🌱 I’m currently learning **Python Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://ignatiusn.banjongs.com/labs](https://ignatiusn.banjongs.com/labs)
+- 👨‍💻 All of my projects are available at [https://ignatiusn.banjongs.com/labs/](https://ignatiusn.banjongs.com/labs/)
 
 - 💬 Ask me about **AWS, DevOps, Azure, Docker, EKS, HashiCorp, Databases**
 
 - 📫 How to reach me **ngwaabanjong15@gmail.com**
 
-- 📄 Know about my experiences [https://ignatiusn.banjongs.com/](https://ignatiusn.banjongs.com/)
+- 📄 Know about my experiences [https://ignatiusn.banjongs.com](https://ignatiusn.banjongs.com)
 
 - ⚡ Fun fact **Soccer, Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/ngwaabanjong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ngwaabanjong" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@ngwaabanjong/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ngwaabanjong/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ngwaabanjong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ngwaabanjong/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ngwaabanjong/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ngwaabanjong/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
