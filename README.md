@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ngwaabanjong15@gmail.com**
 
-- 📄 Know about my experiences [https://ignatiusn.banjongs.com](https://ignatiusn.banjongs.com)
+- 📄 Know about my experiences [https://www.credly.com/users/ignatius-ngwaabanjong/badges](https://www.credly.com/users/ignatius-ngwaabanjong/badges)
 
 - ⚡ Fun fact **Soccer, Music**
 
