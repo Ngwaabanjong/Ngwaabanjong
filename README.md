@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngwaabanjong&label=Profile%20views&color=0e75b6&style=flat" alt="ngwaabanjong" /> </p>
 
-- 🔭 I’m currently working on **ECS Pipeline Deployment for Boydgaming**
+- 🔭 I’m currently working on **AWS and DevOps**
 
 - 🌱 I’m currently learning **Python Frameworks**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.credly.com/users/ignatius-ngwaabanjong/badges](https://www.credly.com/users/ignatius-ngwaabanjong/badges)
 
-- ⚡ Fun fact **Soccer, Music**
+- ⚡ Fun fact **Soccer, Music, & Sharing knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
