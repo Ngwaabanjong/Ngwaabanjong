@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://ignatiusn.banjongs.com/labs/](https://ignatiusn.banjongs.com/labs/)
+- 👨‍💻 All of my projects are available at [https://ngwaabanjong.com/labs/](https://ngwaabanjong.com/labs/)
 
 - 💬 Ask me about **AWS, DevOps, Azure, Docker, EKS, HashiCorp, Databases**
 
