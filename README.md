@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngwaabanjong&label=Profile%20views&color=0e75b6&style=flat" alt="ngwaabanjong" /> </p>
 
-- 🔭 I’m currently working on **AWS and DevOps**
+- 🔭 I’m currently working on **AWS Infrastructure and DevOps**
 
 - 🌱 I’m currently learning **Python Frameworks**
 
